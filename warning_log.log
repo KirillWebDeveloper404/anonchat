@@ -1,0 +1,81 @@
+2021-09-07 20:57:53,861 - WARNING - Chat not found
+2021-09-07 20:57:57,330 - WARNING - Chat not found
+2021-09-07 21:00:44,879 - WARNING - Chat not found
+2021-09-07 21:00:58,607 - WARNING - Chat not found
+2021-09-16 18:05:28,740 - WARNING - Chat not found
+2021-10-05 00:38:16,790 - WARNING - Chat not found
+2021-10-07 21:41:21,231 - WARNING - Chat not found
+2021-10-07 21:41:50,429 - WARNING - Chat not found
+2021-10-15 12:48:26,751 - WARNING - 'NoneType' object is not subscriptable
+2021-10-19 22:12:50,334 - WARNING - Chat not found
+2021-10-22 11:42:20,491 - WARNING - Chat not found
+2021-10-22 11:42:49,084 - WARNING - Chat not found
+2021-10-29 13:52:20,941 - WARNING - Chat not found
+2021-12-06 00:30:00,587 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:01,945 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:03,078 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:03,151 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:03,257 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:03,367 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:03,535 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:03,607 - WARNING - Forbidden: bot was blocked by the user
+2021-12-06 00:30:26,861 - WARNING - Chat not found
+2021-12-08 11:30:03,467 - WARNING - Chat not found
+2021-12-08 11:30:12,451 - WARNING - Chat not found
+2021-12-08 12:46:48,659 - WARNING - Chat not found
+2021-12-08 13:48:39,070 - WARNING - Forbidden: bot was blocked by the user
+2022-02-03 18:13:16,077 - WARNING - Chat not found
+2022-02-03 19:39:35,396 - WARNING - Chat not found
+2022-02-03 19:39:46,728 - WARNING - Chat not found
+2022-02-03 19:39:51,538 - WARNING - Chat not found
+2022-02-07 04:42:57,892 - WARNING - Chat not found
+2022-02-08 03:18:18,563 - WARNING - Forbidden: bot was blocked by the user
+2022-02-08 03:18:18,606 - WARNING - Chat not found
+2022-02-17 23:23:06,430 - WARNING - Chat not found
+2022-02-17 23:23:44,844 - WARNING - Chat not found
+2022-02-17 23:33:36,343 - WARNING - UNIQUE constraint failed: queue.telegram_id
+2022-02-17 23:33:36,544 - WARNING - UNIQUE constraint failed: queue.telegram_id
+2022-02-19 13:04:04,805 - WARNING - Forbidden: bot was blocked by the user
+2022-02-20 23:03:30,294 - WARNING - Forbidden: bot was blocked by the user
+2022-02-21 14:31:27,739 - WARNING - Forbidden: bot was blocked by the user
+2022-02-24 01:22:53,776 - WARNING - Forbidden: bot was blocked by the user
+2022-03-13 12:18:04,716 - WARNING - 'NoneType' object is not subscriptable
+2022-03-13 12:18:10,411 - WARNING - 'NoneType' object is not subscriptable
+2022-03-15 18:13:46,389 - WARNING - 'NoneType' object is not subscriptable
+2022-03-17 07:08:45,433 - WARNING - 'NoneType' object is not subscriptable
+2022-03-20 16:30:40,061 - WARNING - UNIQUE constraint failed: queue.telegram_id
+2022-03-20 16:33:12,788 - WARNING - UNIQUE constraint failed: queue.telegram_id
+2022-03-20 16:34:17,499 - WARNING - tuple index out of range
+2022-03-20 16:34:26,037 - WARNING - tuple index out of range
+2022-03-20 16:47:41,925 - WARNING - Chat not found
+2022-03-20 16:50:46,263 - WARNING - Chat not found
+2022-03-20 20:57:29,928 - WARNING - 'NoneType' object is not subscriptable
+2022-03-20 20:57:41,113 - WARNING - Chat not found
+2022-03-26 13:38:34,074 - WARNING - UNIQUE constraint failed: queue.telegram_id
+2022-03-26 13:47:18,418 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:47:22,272 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:47:24,729 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:09,478 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:15,190 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:17,245 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:18,197 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:31,633 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:35,971 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:40,177 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:45,506 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:48:49,462 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:56:50,048 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:57:03,257 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:57:57,847 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:58:05,595 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:58:29,781 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:58:30,910 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:59:35,763 - WARNING - no such column: randomQueueNumber
+2022-03-26 13:59:36,855 - WARNING - no such column: randomQueueNumber
+2022-03-26 14:02:00,256 - WARNING - no such column: randomQueueNumber
+2022-03-26 14:03:12,070 - WARNING - 'int' object is not subscriptable
+2022-03-26 14:07:02,715 - WARNING - UNIQUE constraint failed: queue.telegram_id
+2022-03-26 14:07:17,968 - WARNING - Chat not found
+2022-03-26 14:07:25,305 - WARNING - Chat not found
+2022-03-26 14:07:31,858 - WARNING - Chat not found
+2022-03-26 14:07:39,596 - WARNING - Chat not found
